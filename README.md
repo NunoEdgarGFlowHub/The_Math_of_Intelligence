@@ -8,23 +8,23 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Week 2 - Second order optimization - Jacobian, hessian, laplacian
  Newtons method for logistic regression
 ## Week 3 - Vectors - Vector spaces, vector norms, matrices
- K Means Clustering Algorithm
+ L1 - L2 Regularization
 ## Week 4 - Matrix operations - Dot product, matrix inverse, projections
- Convolutional Neural Network
+ @TODO
 ## Week 5 - Dimensionality Reduction - matrix decomposition, eigenvectors, eigenvalues
- Principal Component Analysis 
+ @TODO
 ## Week 6 - Probability terms - Random variables,Expectations,Variance 
- Random Forests 
+ @TODO
 ## Week 7 - Parameter estimation - expectation maximization, bayes vs frequentist, maximum likelihood estimation
- XGBoost 
+ @TODO
 ## Week 8 - Types of Probability - joint, conditional, bayes rule, chain rule 
- The Fundamental Theorem of Linear Algebra)
+ @TODO
 ## Week 9 - T-SNE 
- Naive Bayes Classification
+ @TODO
 ## Week 10 - Sampling -MCMC, Gibbs, Slice
- LDA
+ @TODO
 ## Week 11 - Popular Distributions - Bernoulli, uniform, multinomial
- Gaussian Mixture Models
+ @TODO
 ## Week 12 - Reinforcement - Markov chains, Monte Carlo, Markov Decision Processes
- Game Bot 
+ @TODO
 
