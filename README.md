@@ -10,7 +10,7 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Week 3 - Vectors - Vector spaces, vector norms, matrices
  L1 - L2 Regularization
 ## Week 4 - Matrix operations - Dot product, matrix inverse, projections
- @TODO
+ Self Organizing Map (SOM) - Neural Network
 ## Week 5 - Dimensionality Reduction - matrix decomposition, eigenvectors, eigenvalues
  @TODO
 ## Week 6 - Probability terms - Random variables,Expectations,Variance 
