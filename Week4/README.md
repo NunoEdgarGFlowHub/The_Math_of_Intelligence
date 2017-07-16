@@ -13,5 +13,5 @@ This week's coding challenge is to implement **a Self Organizing Map (SOM) Neura
 
 ### References
 
-<a href="https://www.youtube.com/watch?v=ov_RkIJptwE&ab_channel=SirajRaval">Siraj Raval - Youtube - Neural Networks - The Math of Intelligence #4</a>
+<a href="https://www.youtube.com/watch?v=ov_RkIJptwE&ab_channel=SirajRaval">Siraj Raval - Youtube - Neural Networks - The Math of Intelligence #4</a><br>
 <a href="http://www.pitt.edu/~is2470pb/Spring05/FinalProjects/Group1a/tutorial/som.html">Self Organizing Map Tutorial System - Pitt</a>
