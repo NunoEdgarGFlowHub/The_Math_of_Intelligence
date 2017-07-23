@@ -12,9 +12,9 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Week 4 - Matrix operations - Dot product, matrix inverse, projections
  Self Organizing Map (SOM) - Neural Network
 ## Week 5 - Dimensionality Reduction - matrix decomposition, eigenvectors, eigenvalues
- @TODO
+ Principal Component Analysis - PCA
 ## Week 6 - Probability terms - Random variables,Expectations,Variance 
- @TODO
+ Naïve Bayes Classifier for text corpus
 ## Week 7 - Parameter estimation - expectation maximization, bayes vs frequentist, maximum likelihood estimation
  @TODO
 ## Week 8 - Types of Probability - joint, conditional, bayes rule, chain rule 
