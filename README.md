@@ -16,7 +16,7 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Week 6 - Probability terms - Random variables,Expectations,Variance 
  Naïve Bayes Classifier for text corpus
 ## Week 7 - Parameter estimation - expectation maximization, bayes vs frequentist, maximum likelihood estimation
- @TODO
+ Bayesian Hyperparameter Optimization w/ Sklearn
 ## Week 8 - Types of Probability - joint, conditional, bayes rule, chain rule 
  @TODO
 ## Week 9 - T-SNE 

@@ -12,4 +12,4 @@ This week's coding challenge is to implement a **Naïve Bayes Classifier** and p
 
 ### References
 
-<a href="https://www.youtube.com/watch?v=jPmV3j1dAv4&ab_channel=SirajRaval">Siraj Raval - Youtube - Pronability Theory - The Math of Intelligence #6</a>
+<a href="https://www.youtube.com/watch?v=jPmV3j1dAv4&ab_channel=SirajRaval">Siraj Raval - Youtube - Probability Theory - The Math of Intelligence #6</a>
