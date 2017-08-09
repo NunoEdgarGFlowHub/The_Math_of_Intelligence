@@ -18,7 +18,7 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Week 7 - Parameter estimation - expectation maximization, bayes vs frequentist, maximum likelihood estimation
  Bayesian Hyperparameter Optimization w/ Sklearn
 ## Week 8 - Types of Probability - joint, conditional, bayes rule, chain rule 
- @TODO
+ Latent Dirichlet Allocation - LDA on text dataset
 ## Week 9 - T-SNE 
  @TODO
 ## Week 10 - Sampling -MCMC, Gibbs, Slice
