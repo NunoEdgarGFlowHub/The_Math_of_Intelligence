@@ -20,7 +20,7 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Week 8 - Types of Probability - joint, conditional, bayes rule, chain rule 
  Latent Dirichlet Allocation - LDA on text dataset
 ## Week 9 - T-SNE 
- @TODO
+ DeepQLearning - Gym
 ## Week 10 - Sampling -MCMC, Gibbs, Slice
  @TODO
 ## Week 11 - Popular Distributions - Bernoulli, uniform, multinomial
