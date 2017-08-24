@@ -1,6 +1,7 @@
 ## Coding Challenge
 
 This week's coding challenge is to implement a **Quantum Computing Algorithm** with the IBM QISKIT API. By <a href="https://github.com/llSourcell/The_Math_of_Intelligence">Siraj Raval.</a>
+The submission file is "QuantumComputing - Bell State Tomography.ipynb"
 
 # Review
 
