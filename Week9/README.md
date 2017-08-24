@@ -16,4 +16,4 @@ This week's coding challenge is to train an agent for any game you'd like with *
 
 ### References
 
-<a href="https://www.youtube.com/watch?v=HyuBTMaKFmU&t=276s&ab_channel=SirajRaval">Siraj Raval - Youtube - Generative Models - The Math of Intelligence #8</a>
+<a href="https://www.youtube.com/watch?v=HyuBTMaKFmU&t=276s&ab_channel=SirajRaval">Siraj Raval - Youtube - Generative Models - The Math of Intelligence #9</a>

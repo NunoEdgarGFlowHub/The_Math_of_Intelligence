@@ -22,7 +22,7 @@ Each week has a short video (released on Friday) and an associated longer video 
 ## Week 9 - T-SNE 
  DeepQLearning - Gym
 ## Week 10 - Sampling -MCMC, Gibbs, Slice
- @TODO
+ Quantum Computing w/ QISKIT
 ## Week 11 - Popular Distributions - Bernoulli, uniform, multinomial
  @TODO
 ## Week 12 - Reinforcement - Markov chains, Monte Carlo, Markov Decision Processes
