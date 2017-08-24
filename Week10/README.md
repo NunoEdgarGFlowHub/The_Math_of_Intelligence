@@ -27,6 +27,7 @@ It's a 5 Qubit real processor hosted at IBM, in which we could do our Quantum Co
 
 #### Philosophy:
 The basic concept of our quantum program is an array of quantum circuits. The program workflow consists of three stages: Build, Compile, and Run. Build allows you to make different quantum circuits that represent the problem you are solving; Compile allows you to rewrite them to run on different backends (simulators/real chips of different quantum volumes, sizes, fidelity, etc); and Run launches the jobs. After the jobs have been run, the data is collected. There are methods for putting this data together, depending on the program. This either gives you the answer you wanted or allows you to make a better program for the next instance. [3]
+<br>
 <img src="https://github.com/QISKit/qiskit-sdk-py/blob/master/images/circuit_representations.png?raw=true" width="500px">
 <img src="https://github.com/QISKit/qiskit-sdk-py/blob/master/images/unroller_backends.png?raw=true" width="500px">
 
