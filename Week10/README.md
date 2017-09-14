@@ -1,3 +1,5 @@
+# CODING CHALLANGE WINNER!
+
 ## Coding Challenge
 
 This week's coding challenge is to implement a **Quantum Computing Algorithm** with the IBM QISKIT API. By <a href="https://github.com/llSourcell/The_Math_of_Intelligence">Siraj Raval.</a>
@@ -40,7 +42,7 @@ The basic concept of our quantum program is an array of quantum circuits. The pr
 
 ## Dependencies for Full Notebook
 
-* matplotlib (for rendering the game)
+* matplotlib (for plotting)
 * scipy (linear algebra)
 
 ### References
