@@ -78,7 +78,7 @@ A pair of plots is worth many thousand words.
 ### References
 
 
-<a href="http://www.investopedia.com/university/technical/techanalysis3.asp">Technical Analysis - The use of Trend - Investopedia</a>
-<a href="http://http://www.investopedia.com/terms/m/marketmomentum.asp">Momentum Market - Investopedia</a>
-<a href="http://www.investopedia.com/terms/v/volume.asp">Volume - Investopedia</a>
-<a href="https://www.youtube.com/watch?v=LhtnECml-KI">Siraj Raval - Youtube - Quantum Computing - The Math of Intelligence #10</a>
+<a href="http://www.investopedia.com/university/technical/techanalysis3.asp">Technical Analysis - The use of Trend - Investopedia</a><br>
+<a href="http://http://www.investopedia.com/terms/m/marketmomentum.asp">Momentum Market - Investopedia</a><br>
+<a href="http://www.investopedia.com/terms/v/volume.asp">Volume - Investopedia</a><br>
+<a href="https://www.youtube.com/watch?v=LhtnECml-KI">Siraj Raval - Youtube - Quantum Computing - The Math of Intelligence #10</a><br>
