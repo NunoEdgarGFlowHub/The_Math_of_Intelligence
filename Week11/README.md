@@ -38,7 +38,7 @@ Is an indicator to measure the volalitility (NOT price direction). The largest o
 
 <img src="http://d.stockcharts.com/school/data/media/chart_school/technical_indicators_and_overlays/average_true_range_atr/atr-1-trexam.png" width="400px">
 
-Calculation:
+Calculation:<br>
 <img src="http://i68.tinypic.com/e0kggi.png">
 
 # Models
@@ -57,9 +57,11 @@ A (more appropiate) recurrent neural network model. Details in the corresponding
 
 A pair of plots is worth many thousand words.
 
--Plot1
+-Price vs Prediction @ Deep Regressor
+<img src="https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week11/src/PriceVsPred_DeepRegressor.PNG">
 
--Plot2
+-Price vs Prediction @ RNN
+<img src="https://github.com/alberduris/The_Math_of_Intelligence/blob/master/Week11/src/PriceVsPred_RNN.PNG">
 
 
 ## Dependencies for challenge
