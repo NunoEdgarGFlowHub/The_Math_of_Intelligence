@@ -23,7 +23,3 @@ Each week has a short video (released on Friday) and an associated longer video 
  DeepQLearning - Gym
 ## Week 10 - Sampling -MCMC, Gibbs, Slice
  Quantum Computing w/ QISKIT
-## Week 11 - Popular Distributions - Bernoulli, uniform, multinomial
- @TODO
-## Week 12 - Reinforcement - Markov chains, Monte Carlo, Markov Decision Processes
- @TODO
